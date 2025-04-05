@@ -1,0 +1,4 @@
+Rex Resolution 
+- konsisten belajar terutama bahasa pemrograman 
+- lebih memfokuskan ke praktikum 
+- membuat projek kelompok dengan skala profesional ( kalkulator penelitian kelautan )
