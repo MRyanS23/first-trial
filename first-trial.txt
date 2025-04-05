@@ -3,4 +3,4 @@ Rex Resolution
 - lebih memfokuskan ke praktikum 
 - membuat projek kelompok dengan skala profesional ( kalkulator penelitian kelautan )
 - mengerjakan take home test
-- mempelajari jaringan 
+- mempelajari front end 
