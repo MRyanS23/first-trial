@@ -1,8 +1,9 @@
 wishlist Ryan 
 belajar phyton 
 belajar javascript 
-belajar framework 
+belajar framework
 -vue
 -react
 belajar laravel 
 belajar bahasa go
+
