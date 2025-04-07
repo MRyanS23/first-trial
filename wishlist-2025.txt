@@ -1,3 +1,5 @@
 wishlist Ryan 
 belajar phyton 
 belajar javascript 
+belajar framework 
+belajar laravel 
